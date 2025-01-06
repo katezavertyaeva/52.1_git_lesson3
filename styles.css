@@ -4,3 +4,8 @@ div {
   color: rgb(66, 24, 106);
   border: 2px solid rgb(67, 10, 69);
 }
+
+p{
+  font-size: 20px;
+  color: rgb(167, 195, 54);
+}
